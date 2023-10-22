@@ -20,7 +20,7 @@ namespace Tyuiu.DragomeretskiyED.Sprint3.Task0.V17
             Console.WriteLine("* Тема: Цикл for                                                          *");
             Console.WriteLine("* Задание #0                                                              *");
             Console.WriteLine("* Вариант #17                                                             *");
-            Console.WriteLine("* Выполнил: Драгомерецкий Е.Д. | СМАРТб-23-1                              *");
+            Console.WriteLine("* Выполнил: Драгомерецкий Егор Дмитриевич | СМАРТб-23-1                   *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу используя цикл for, которая вычисляет                *");
