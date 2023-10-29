@@ -19,7 +19,7 @@ namespace Tyuiu.DragomeretskiyED.Sprint3.Task6.V7
             Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема: Алгоритмы циклической структуры                                   *");
             Console.WriteLine("* Задание #6                                                              *");
-            Console.WriteLine("* Вариант #7                                                             *");
+            Console.WriteLine("* Вариант #7                                                              *");
             Console.WriteLine("* Выполнил: Драгомерецкий Егор Дмитриевич | СМАРТб-23-1                   *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
